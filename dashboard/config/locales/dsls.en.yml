@@ -624,40 +624,62 @@ en:
       CSD U3 - images - pick your final work: {}
       CSD U3 -conditionals - stop booleans: {}
       CSD U3 AnimationsMulti STOP project guide: {}
+      CSD U3 AnimationsMulti STOP project guide_2018: {}
       CSD U3 Collision Detection: {}
+      CSD U3 Collision Detection_2018: {}
       CSD U3 Collisions SFLP: {}
+      CSD U3 Collisions SFLP_2018: {}
       CSD U3 Compound Nested Stop: {}
       CSD U3 Counters match outputs: {}
       CSD U3 Defender SFLP: {}
+      CSD U3 Defender SFLP_2018: {}
       CSD U3 Describe the Picture:
         Describe the Picture: Describe the Picture
         description here: description here
       CSD U3 Draw Loop Map 1: {}
       CSD U3 Draw Loop Stop: {}
       CSD U3 Entertainment: {}
+      CSD U3 Entertainment_2018: {}
       CSD U3 Expressions STOP writing 10: {}
       CSD U3 Functions Introduction: {}
       CSD U3 Functions SFLP: {}
+      CSD U3 Functions SFLP_2018: {}
       CSD U3 Keypress Stop: {}
       CSD U3 L2 Challenges:
         description here: description here
         title: title
       CSD U3 Lesson Overview 1: {}
       CSD U3 Lesson Overview 10: {}
+      CSD U3 Lesson Overview 10_2018: {}
       CSD U3 Lesson Overview 11: {}
+      CSD U3 Lesson Overview 11_2018: {}
       CSD U3 Lesson Overview 12: {}
+      CSD U3 Lesson Overview 12_2018: {}
       CSD U3 Lesson Overview 13: {}
+      CSD U3 Lesson Overview 13_2018: {}
       CSD U3 Lesson Overview 14: {}
+      CSD U3 Lesson Overview 14_2018: {}
+      CSD U3 Lesson Overview 1_2018: {}
       CSD U3 Lesson Overview 2: {}
+      CSD U3 Lesson Overview 2_2018: {}
       CSD U3 Lesson Overview 3: {}
+      CSD U3 Lesson Overview 3_2018: {}
       CSD U3 Lesson Overview 4: {}
+      CSD U3 Lesson Overview 4_2018: {}
       CSD U3 Lesson Overview 5: {}
+      CSD U3 Lesson Overview 5_2018: {}
       CSD U3 Lesson Overview 6: {}
+      CSD U3 Lesson Overview 6_2018: {}
       CSD U3 Lesson Overview 7: {}
+      CSD U3 Lesson Overview 7_2018: {}
       CSD U3 Lesson Overview 8: {}
+      CSD U3 Lesson Overview 8_2018: {}
       CSD U3 Lesson Overview 9: {}
+      CSD U3 Lesson Overview 9_2018: {}
       CSD U3 Movement Challenges: {}
+      CSD U3 Movement Challenges_2018: {}
       CSD U3 Project Build a Game SFLP: {}
+      CSD U3 Project Build a Game SFLP_2018: {}
       CSD U3 Random randomNumber Map: {}
       CSD U3 SFLP Card Project: {}
       CSD U3 SFLP Conditionals: {}
@@ -665,8 +687,10 @@ en:
         description here: description here
         title: title
       CSD U3 SFLP Velocity: {}
+      CSD U3 SFLP Velocity_2018: {}
       CSD U3 Sprites STOP sprites and variables: {}
       CSD U3 Using the Game Design Process SLFP: {}
+      CSD U3 Using the Game Design Process SLFP_2018: {}
       CSD U3 Variables Reassign Predict No Response: {}
       CSD U3 Variables STOP misconceptions: {}
       CSD U3 Variables STOP misconceptions prediction: {}
@@ -687,10 +711,17 @@ en:
         description here: description here
         title: title
       CSD U3 complex sprite movement SFLP: {}
+      CSD U3 complex sprite movement SFLP_2018: {}
       CSD U3 game intro:
         Create Your Own Game: Create Your Own Game
         description here: description here
+      CSD U3 game intro_2018:
+        Create Your Own Game: Create Your Own Game
+        description here: description here
       CSD U3 platform intro:
+        Build a Platform Jumper: Build a Platform Jumper
+        description here: description here
+      CSD U3 platform intro_2018:
         Build a Platform Jumper: Build a Platform Jumper
         description here: description here
       CSD U3 setSpeed STOP:
@@ -3547,13 +3578,16 @@ en:
         Unit 5 Self-Assessment: {}
         brendan test survey: {}
         csd-post-survey-2017-levelgroup: {}
+        csd-post-survey-2017-levelgroup_2018: {}
         csd-pre-survey-2017-levelgroup: {}
         csd-pulse-check-survey-1-levelgroup: {}
         csd-pulse-check-survey-1-levelgroup U1Ch2: {}
         csd-pulse-check-survey-1-levelgroup U2Ch1: {}
         csd-pulse-check-survey-1-levelgroup U2Ch2: {}
         csd-pulse-check-survey-1-levelgroup U3Ch1: {}
+        csd-pulse-check-survey-1-levelgroup U3Ch1_2018: {}
         csd-pulse-check-survey-1-levelgroup U3Ch2: {}
+        csd-pulse-check-survey-1-levelgroup U3Ch2_2018: {}
         csd-pulse-check-survey-1-levelgroup U4Ch1: {}
         csd-pulse-check-survey-1-levelgroup U4Ch2: {}
         csd-pulse-check-survey-1-levelgroup U5Ch1: {}
@@ -3758,6 +3792,19 @@ en:
         dog.x &gt; cat.x: dog.x &gt; cat.x
         dog.x &lt; cat.x: dog.x &lt; cat.x
         dog.x == cat.x: dog.x == cat.x
+      CSD U3 - conditionals - Matching_2018:
+        Is the dog sprite's rotation less than the cat sprite's rotation?: Is the dog sprite's rotation less than the cat sprite's rotation?
+        Is the dog sprite's scale greater than the cat sprite's scale?: Is the dog sprite's scale greater than the cat sprite's scale?
+        Is the dog sprite's x equal to the cat sprite's x?: Is the dog sprite's x equal to the cat sprite's x?
+        Is the dog sprite's x greater than the cat sprite's x?: Is the dog sprite's x greater than the cat sprite's x?
+        Is the dog sprite's x less than the cat sprite's x?: Is the dog sprite's x less than the cat sprite's x?
+        Match the boolean expression to the English description.: Match the boolean expression to the English description.
+        'Matching: Comparison Operators': 'Matching: Comparison Operators'
+        dog.rotation &lt; cat.rotation: dog.rotation &lt; cat.rotation
+        dog.scale &gt; cat.scale: dog.scale &gt; cat.scale
+        dog.x &gt; cat.x: dog.x &gt; cat.x
+        dog.x &lt; cat.x: dog.x &lt; cat.x
+        dog.x == cat.x: dog.x == cat.x
       CSD U3 CSS Vocab Match:
         '1': '1'
         '2': '2'
@@ -3769,6 +3816,16 @@ en:
         : "\tvar position = 0;\n    \n    function draw(){\n    \tposition = position + 1;\n    \tbackground(\"white\");\n        fill(\"red\");\n        rect(position, 20, 50, 50);\n    }"
         Maybe: Maybe
       CSD U3 Keypress Matching:
+        Is true only once when the key is pressed.: Is true only once when the key is pressed.
+        Is true only once when the key is released.: Is true only once when the key is released.
+        Is true the whole time the key is pressed or held down.: Is true the whole time the key is pressed or held down.
+        ? Match the keypress block with the description of how it works. Feel free to go back to the previous bubble if you need to experiment with them.
+        : Match the keypress block with the description of how it works. Feel free to go back to the previous bubble if you need to experiment with them.
+        'Matching: Responding to Keypresses': 'Matching: Responding to Keypresses'
+        keyDown(): keyDown()
+        keyWentDown(): keyWentDown()
+        keyWentUp(): keyWentUp()
+      CSD U3 Keypress Matching_2018:
         Is true only once when the key is pressed.: Is true only once when the key is pressed.
         Is true only once when the key is released.: Is true only once when the key is released.
         Is true the whole time the key is pressed or held down.: Is true the whole time the key is pressed or held down.
@@ -5006,7 +5063,21 @@ en:
         Which result will be printed in the console by this program?: Which result will be printed in the console by this program?
         title: title
         true<br>false<br>true: true<br>false<br>true
+      CSD U3 Boolean MC_2018:
+        "  0<br>200<br>100": "  0<br>200<br>100"
+        "  false<br>true<br>false": "  false<br>true<br>false"
+        "  true<br>error<br>true": "  true<br>error<br>true"
+        Which result will be printed in the console by this program?: Which result will be printed in the console by this program?
+        title: title
+        true<br>false<br>true: true<br>false<br>true
       CSD U3 Functions Prediction define first:
+        Both squares will be drawn. You can create functions anywhere you like in your code.: Both squares will be drawn. You can create functions anywhere you like in your code.
+        ? Functions can be created anywhere you like in your code. It is still a good idea to keep them all at the bottom for organization though!
+        : Functions can be created anywhere you like in your code. It is still a good idea to keep them all at the bottom for organization though!
+        Neither square will be drawn. There is an error in the code.: Neither square will be drawn. There is an error in the code.
+        The green square will be drawn but the red one will not You cannot call functions before they are created.: The green square will be drawn but the red one will not You cannot call functions before they are created.
+        The red square will be drawn but the green one will not. You cannot call functions after they are created.: The red square will be drawn but the green one will not. You cannot call functions after they are created.
+      CSD U3 Functions Prediction define first_2018:
         Both squares will be drawn. You can create functions anywhere you like in your code.: Both squares will be drawn. You can create functions anywhere you like in your code.
         ? Functions can be created anywhere you like in your code. It is still a good idea to keep them all at the bottom for organization though!
         : Functions can be created anywhere you like in your code. It is still a good idea to keep them all at the bottom for organization though!
@@ -5019,7 +5090,23 @@ en:
         "<img src='https://images.code.org/7c43fbce8cbbe7c15614203290f806e7-image-1491939169414.gif' style='border: 1px solid #ccc'>": "<img src='https://images.code.org/7c43fbce8cbbe7c15614203290f806e7-image-1491939169414.gif' style='border: 1px solid #ccc'>"
         "<img src='https://images.code.org/c62dbed9a37b03958cb056bf493bd59c-image-1491939175575.gif' style='border: 1px solid #ccc'>": "<img src='https://images.code.org/c62dbed9a37b03958cb056bf493bd59c-image-1491939175575.gif' style='border: 1px solid #ccc'>"
         Read this program and predict which of the following animations will be produced.: Read this program and predict which of the following animations will be produced.
+      CSD U3 Sprite Movement Predict Multi_2018:
+        "<img src='https://images.code.org/2f5e7773ae2f99d6217929bd58490393-image-1491939162998.gif' style='border: 1px solid #ccc'>": "<img src='https://images.code.org/2f5e7773ae2f99d6217929bd58490393-image-1491939162998.gif' style='border: 1px solid #ccc'>"
+        "<img src='https://images.code.org/649915789345f5958475cd2b91e0630c-image-1491939133180.gif' style='border: 1px solid #ccc'>": "<img src='https://images.code.org/649915789345f5958475cd2b91e0630c-image-1491939133180.gif' style='border: 1px solid #ccc'>"
+        "<img src='https://images.code.org/7c43fbce8cbbe7c15614203290f806e7-image-1491939169414.gif' style='border: 1px solid #ccc'>": "<img src='https://images.code.org/7c43fbce8cbbe7c15614203290f806e7-image-1491939169414.gif' style='border: 1px solid #ccc'>"
+        "<img src='https://images.code.org/c62dbed9a37b03958cb056bf493bd59c-image-1491939175575.gif' style='border: 1px solid #ccc'>": "<img src='https://images.code.org/c62dbed9a37b03958cb056bf493bd59c-image-1491939175575.gif' style='border: 1px solid #ccc'>"
+        Read this program and predict which of the following animations will be produced.: Read this program and predict which of the following animations will be produced.
       CSD U3 Sprites intro predict multi:
+        ? '<img src="https://images.code.org/1e4cf8b84af44ac064f99c3370267f5c-image-1491255399012.png" style="width: 150px; border: 1px solid">'
+        : '<img src="https://images.code.org/1e4cf8b84af44ac064f99c3370267f5c-image-1491255399012.png" style="width: 150px; border: 1px solid">'
+        ? '<img src="https://images.code.org/5c6c1e71f8a36fc4c871342e0c447dad-image-1491255426577.png" style="width: 150px; border: 1px solid">'
+        : '<img src="https://images.code.org/5c6c1e71f8a36fc4c871342e0c447dad-image-1491255426577.png" style="width: 150px; border: 1px solid">'
+        ? '<img src="https://images.code.org/7804e61306e15e3b5a2e0e9cc5906442-image-1491255443696.png" style="width: 150px; border: 1px solid">'
+        : '<img src="https://images.code.org/7804e61306e15e3b5a2e0e9cc5906442-image-1491255443696.png" style="width: 150px; border: 1px solid">'
+        ? '<img src="https://images.code.org/9fe7b64b9f4f566213a02ce2fcc78af3-image-1491255143541.png" style="width: 150px; border: 1px solid">'
+        : '<img src="https://images.code.org/9fe7b64b9f4f566213a02ce2fcc78af3-image-1491255143541.png" style="width: 150px; border: 1px solid">'
+        When run, where will the sprite <code>mySprite</code> be located?: When run, where will the sprite <code>mySprite</code> be located?
+      CSD U3 Sprites intro predict multi_2018:
         ? '<img src="https://images.code.org/1e4cf8b84af44ac064f99c3370267f5c-image-1491255399012.png" style="width: 150px; border: 1px solid">'
         : '<img src="https://images.code.org/1e4cf8b84af44ac064f99c3370267f5c-image-1491255399012.png" style="width: 150px; border: 1px solid">'
         ? '<img src="https://images.code.org/5c6c1e71f8a36fc4c871342e0c447dad-image-1491255426577.png" style="width: 150px; border: 1px solid">'
